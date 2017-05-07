@@ -1,5 +1,18 @@
 # oalprInstall
 
+## test 
+
+Test the library
+
+wget http://plates.openalpr.com/ea7the.jpg
+
+alpr -c us ea7the.jpg
+
+wget http://plates.openalpr.com/h786poj.jpg
+
+alpr -c eu h786poj.jpg
+
+
 ### sgTrain
 Works on 1-line plates only. 
 

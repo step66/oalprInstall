@@ -1,6 +1,6 @@
 # oalprInstall
 
-### SGLPR data
+### sgTrain
 Works on 1-line plates only. 
 
 Todo: 2 line plates
